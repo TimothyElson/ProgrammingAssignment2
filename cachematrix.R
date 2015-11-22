@@ -5,7 +5,7 @@
 
 ## makeCahceMatrix creates a list that contains
 ## a function sets and gets the value of of the input matrix
-## then sets and gets the inverse of that matrix as a cache
+## then sets and gets the inverse of that matrix as a cache.
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
